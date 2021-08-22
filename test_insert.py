@@ -22,7 +22,7 @@ try:
          print (l_ip)
          print (l_datum)
          print (l_tekst)
-         print "--"
+         print "*--*"
 
     
     
